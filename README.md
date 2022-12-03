@@ -2,8 +2,6 @@ DakraMystic:
 
 Choices are rarely as simple as they seem
 _________________
-Github
-_________________
 
 Soldity developer at [Siren Markets](https://siren.xyz/)
 
