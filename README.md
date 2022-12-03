@@ -1,4 +1,4 @@
-**DakraMystic:
+DakraMystic:
 
 Choices are rarely as simple as they seem
 _________________
